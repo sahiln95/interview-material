@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T05:19:41.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.3" etag="mV-tFc59gk1P1-FCKYiY" type="github"><diagram id="eOTb17LQmszXk05G_Vfl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-16T06:25:28.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aCut3HNE2UWRF9zrp_v9" version="20.2.3" type="github">
+  <diagram id="eOTb17LQmszXk05G_Vfl" name="Page-1">
+    <mxGraphModel dx="1809" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pCmC7B96k1TlQ-MIQ894-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="600" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="pCmC7B96k1TlQ-MIQ894-3" value="Q1. What is Capital city of Venezuela" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pCmC7B96k1TlQ-MIQ894-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;0:30&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pCmC7B96k1TlQ-MIQ894-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;A. Dubai&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pCmC7B96k1TlQ-MIQ894-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;B. Caracas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pCmC7B96k1TlQ-MIQ894-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;C. New Delhi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pCmC7B96k1TlQ-MIQ894-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;D. Dubai&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="400" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
